@@ -1,2 +1,1 @@
-# SUPER-SIONOVS
-My new Game by Saharsionov2
+npx local-web-server --https --cors.embedder-policy "same-origin" --cors.opener-policy "same-origin" --directory "."
